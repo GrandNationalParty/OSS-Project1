@@ -379,7 +379,7 @@ MSBuild_Logs/
 **/.mfractor/
 
 # Local History for Visual Studio
-**/.localhistory/
+#**/.localhistory/
 
 # Visual Studio History (VSHistory) files
 .vshistory/
